@@ -7,6 +7,7 @@ I'm Johan, a 20 years old web developer from France.
 
 - 👨‍💻 Student in Creation of applications: design, development, validation.
   <br>
+  
   1st year: IUT from Bayonne of Pays Basque, France
   <br>
   2nd year: Thailand at Prince of Songkla University, Phuket
