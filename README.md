@@ -6,13 +6,12 @@
 I'm Johan, a 20 years old web developer from France.
 
 - 👨‍💻 Student in Creation of applications: design, development, validation.
+  <br>  
+      1st year: IUT from Bayonne of Pays Basque, France
   <br>
-  
-  1st year: IUT from Bayonne of Pays Basque, France
+      2nd year: Thailand at Prince of Songkla University, Phuket
   <br>
-  2nd year: Thailand at Prince of Songkla University, Phuket
-  <br>
-  3rd year: Ongoing year at IUT from Bayonne of Pays Basque, France
+      3rd year: Ongoing year at IUT from Bayonne of Pays Basque, France
 - <p>+ a lot more soon ;)</p>
 
 ## Skills
