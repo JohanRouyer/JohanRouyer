@@ -19,7 +19,7 @@ Hi ! I'm Johan, a 20 years old student from France improving my skills in web de
 - 👁️ CSS,Sass
 - 💽 MySQL, SQL, Mongo
 
-## Contact
+## Contact & links
 - johanrouyer2@gmail.com
 - [Root Me](https://www.root-me.org/m1r4g3)
 - [@m1r4g3d](https://discord.com/users/744892863367872552) on Discord
