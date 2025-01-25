@@ -23,4 +23,4 @@ Hi ! I'm Johan, a 20 years old student from France improving my skills in web de
 - johanrouyer2@gmail.com
 - [@m1r4g3d - Discord](https://discord.com/users/744892863367872552)
 - [Root Me](https://www.root-me.org/m1r4g3)
-- [Linkedin]([https://www.root-me.org/m1r4g3](https://www.linkedin.com/in/johan-rouyer-710686293/))
+- [Linkedin](https://www.linkedin.com/in/johan-rouyer-710686293/)
