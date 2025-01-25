@@ -5,7 +5,7 @@
 
 Hi ! I'm Johan, a 20 years old student from France improving my skills in web development.
 
-- 👨‍💻 Student in Creation of applications: design, development, validation.
+- 👨‍💻 Student in Creation of applications: design, development, validation.<br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1st year: IUT from Bayonne of Pays Basque, France
   <br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2nd year: Thailand at Prince of Songkla University, Phuket
