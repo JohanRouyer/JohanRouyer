@@ -7,11 +7,11 @@ Hi ! I'm Johan, a 20 years old student from France improving my skills in web de
 
 - 👨‍💻 Student in Creation of applications: design, development, validation.
   <br>  
-      <dd>1st year: IUT from Bayonne of Pays Basque, France
+      &nbsp;1st year: IUT from Bayonne of Pays Basque, France
   <br>
-      <dd>2nd year: Thailand at Prince of Songkla University, Phuket
+      &nbsp;2nd year: Thailand at Prince of Songkla University, Phuket
   <br>
-      <dd>3rd year: Ongoing year at IUT from Bayonne of Pays Basque, France
+      &nbsp;3rd year: Ongoing year at IUT from Bayonne of Pays Basque, France
 - <p>+ a lot more soon ;)</p>
 
 ## Skills
